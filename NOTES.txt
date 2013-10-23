@@ -1,0 +1,8 @@
+DATABASES
+http://www4.comp.polyu.edu.hk/~biometrics/polyudb_face.htm
+http://www.face-rec.org/databases/
+http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html
+http://www.facedetection.com/facedetection/datasets.htm
+http://vasc.ri.cmu.edu/idb/html/face/index.html
+http://cswww.essex.ac.uk/mv/allfaces/index.html
+
